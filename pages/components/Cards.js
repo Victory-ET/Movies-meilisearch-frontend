@@ -7,7 +7,7 @@ const Cards = () => {
       <div className=" text-white">
         <Image
           className=" rounded-md"
-          src=""
+          src="/iMG.JPG"
           height="300px"
           width="200px"
           alt="image here"
